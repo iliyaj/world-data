@@ -1,7 +1,12 @@
 /.project-agent-collab
 /.claude
 /raw
-CLAUDE.md
-/extract
 /zip
+CLAUDE.md
 SKILLS.md
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+*.pyo
+.DS_Store
+*.egg-info/
